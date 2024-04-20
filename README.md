@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Segal a Computer Science and Mathematics Student at Ariel Univetsity
+- 👋 Hi, I’m David, Got a BSC in Computer Science and Mathematics
 - 👀 I’m interested in Machine Learning and Algorithms
 - 💞️ I’m looking to collaborate on Cool Projects
 <!---
